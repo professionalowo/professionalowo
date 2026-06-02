@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Martin, I'm a german computer science student and programming enthusiast.
-I'm currently learning full stack developement.
+
 
 <!--
 **professionalowo/professionalowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
