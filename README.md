@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Martin, I'm a german computer science student and programming enthusiast.
-
+My name is Martin, I'm a masters student of computer science and programming enthusiast.
+I am interested in everything open source, but especially in minecraft modding and modern programming languages like rust and zig
 
 <!--
 **professionalowo/professionalowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
